@@ -160,9 +160,9 @@ Diese Addon verwendet pyDes von Todd Whiteman</disclaimer>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
         <extension point="xbmc.addon.repository" name="Amazon Video Addon">
-            <info compressed="false">https://raw.githubusercontent.com/WhileE/xbmc/master/_repo/_repo/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/WhileE/xbmc/master/_repo/_repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/WhileE/xbmc/master/_repo/_repo/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/WhileE/prime.amazon.repo/master/_repo/_repo/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/WhileE/prime.amazon.repo/master/_repo/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/WhileE/prime.amazon.repo/master/_repo/_repo/</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
