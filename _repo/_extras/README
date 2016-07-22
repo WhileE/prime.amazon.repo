@@ -1,0 +1,10 @@
+- Install LibreElec img to SD via DD
+- Put update package(http://forum.kodi.tv/showthread.php?tid=269814) into .update folder, and reboot pi
+- Move to /tmp, run getwidevine.sh
+- Copy amazon repo .zip to raspi
+- Install repo from zip
+- Install Amazon VOD plugin from repo
+- Settings:
+	- English
+	- Use InputStream to play video, not browsers
+	- Add credentials
